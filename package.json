@@ -1,0 +1,19 @@
+{
+  "name": "sails-api-doc",
+  "version": "1.0.0",
+  "description": "creates view of sails api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/putnamn21/sails-api-doc.git"
+  },
+  "author": "Nathan Putnam <nathanputnam2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/putnamn21/sails-api-doc/issues"
+  },
+  "homepage": "https://github.com/putnamn21/sails-api-doc#readme"
+}
